@@ -1,11 +1,4 @@
-.ex-btn {
-  padding: 4px 15px;
-  border-radius: 5px;
-  font-size: 17px; /* เปลี่ยนจาก 18px เป็น 17px ตามโจทย์ */
-  cursor: pointer;
-}
 
-/* เฉพาะส่วนที่แตกต่าง */
 .ex-btn-warning {
   color: white;
   background-color: crimson;
